@@ -1,6 +1,10 @@
 # Game-Project-TheLastOfUs
 The Last Of Us themed Java Game
 
+
+![plot](/Users/sarah-elfeel/Desktop/Screen Shot 2023-05-07 at 1.48.01 PM.png)
+
+
 ## Game Description: 
 The Last of Us: Legacy is a single player survival game set in a zombie apocalyptic world. The game is conducted in a turn based manner, in which each player character receives a specific number of action points per turn, which they can use to move, attack or cure zombies, or use special actions.
 
