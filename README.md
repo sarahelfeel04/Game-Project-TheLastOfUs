@@ -2,7 +2,9 @@
 The Last Of Us themed Java Game
 
 
-![Uploading Screen Shot 2023-05-07 at 1.48.01 PM.png…]()
+![Screen Shot 2023-02-05 at 9 45 39 PM](https://github.com/sarahelfeel04/Game-Project-TheLastOfUs/assets/142936159/c9b5f013-747b-4792-9442-726f4b60b3a0)
+
+
 
 
 
