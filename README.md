@@ -29,7 +29,8 @@ Each hero type has a unique action they can add to the player’s team:
 *  Medic: Can heal and restore health to other heroes or themselves, each process of healing uses 1 supply.
 * Fighter: Can attack as many times in a turn without costing action points, for 1 turn whenever a supply is used.
 
-Possible actions that can be done by a character: • Move
+Possible actions that can be done by a character: 
+- Move
 - Attack a zombie
 - Cure a zombie
 - Use their class dependant unique action
