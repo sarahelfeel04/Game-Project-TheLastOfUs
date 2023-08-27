@@ -12,9 +12,9 @@ Heroes are the types of characters that the player can control. There are severa
 Considering that the aim of the game is to build a large enough community to survive the apocalypse thus the player must try to maintain and protect their heroes at all costs, as well as try to expand their available pool of heroes.
 Each hero type has a unique action they can add to the player’s team:
 
-- Explorer: Allows the player to be able to see the entirety of the map for 1 turn whenever a supply is used.
-- Medic: Can heal and restore health to other heroes or themselves, each process of healing uses 1 supply.
-- Fighter: Can attack as many times in a turn without costing action points, for 1 turn whenever a supply is used.
+* Explorer: Allows the player to be able to see the entirety of the map for 1 turn whenever a supply is used.
+*  Medic: Can heal and restore health to other heroes or themselves, each process of healing uses 1 supply.
+* Fighter: Can attack as many times in a turn without costing action points, for 1 turn whenever a supply is used.
 
 Possible actions that can be done by a character: • Move
 - Attack a zombie
