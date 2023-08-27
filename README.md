@@ -2,16 +2,23 @@
 The Last Of Us themed Java Game
 
 
-![Screen Shot 2023-02-05 at 9 45 39 PM](https://github.com/sarahelfeel04/Game-Project-TheLastOfUs/assets/142936159/c9b5f013-747b-4792-9442-726f4b60b3a0)
-
-
-
-
-
 ## Game Description: 
 The Last of Us: Legacy is a single player survival game set in a zombie apocalyptic world. The game is conducted in a turn based manner, in which each player character receives a specific number of action points per turn, which they can use to move, attack or cure zombies, or use special actions.
 
 The player starts the game controlling only one hero, but can gain additional heroes by curing zombies. The objective of the game for the player is to survive as long as it takes in order to cure a sufficient number of zombies enough to build a community to survive the apocalypse.
+
+## Snippets from the game
+
+
+![Screen Shot 2023-08-27 at 11 55 58 PM](https://github.com/sarahelfeel04/Game-Project-TheLastOfUs/assets/142936159/1223d853-dbd8-4fc0-8ca0-c7242cfabf4f)
+![Screen Shot 2023-08-27 at 11 55 42 PM](https://github.com/sarahelfeel04/Game-Project-TheLastOfUs/assets/142936159/1106ad15-6666-4d6a-aaca-3c52eca8b4f8)
+![Screen Shot 2023-08-27 at 11 55 26 PM](https://github.com/sarahelfeel04/Game-Project-TheLastOfUs/assets/142936159/402345e3-aec6-4e4c-894e-e03483e31dda)
+![Screen Shot 2023-08-27 at 11 55 14 PM](https://github.com/sarahelfeel04/Game-Project-TheLastOfUs/assets/142936159/3adf6cc9-76f3-4cfb-a6c6-9c3cef966fd1)
+![Screen Shot 2023-08-27 at 11 54 57 PM](https://github.com/sarahelfeel04/Game-Project-TheLastOfUs/assets/142936159/d877ee79-2de4-4802-9c9d-4ccbc4ad115f)
+![Screen Shot 2023-08-27 at 11 54 40 PM](https://github.com/sarahelfeel04/Game-Project-TheLastOfUs/assets/142936159/a761df7f-f45f-4aad-92df-b7cf45b54ecb)
+
+
+
 
 ## Characters
 Characters in the game are split into Heroes or Zombies. Heroes
