@@ -3,9 +3,9 @@ The Last Of Us themed Java Game
 
 
 ## Game Description: 
-The Last of Us: Legacy is a single player survival game set in a zombie apocalyptic world. The game is conducted in a turn based manner, in which each player character receives a specific number of action points per turn, which they can use to move, attack or cure zombies, or use special actions.
+Welcome to **The Last Of Us: Legacy**, a Java-based game set in a world gripped by a zombie apocalypse. In this single-player survival game, you'll navigate through a turn-based environment where strategic decisions are key to survival. Each player character receives a specific number of action points per turn, allowing them to move, attack or cure zombies, and utilize special actions.
 
-The player starts the game controlling only one hero, but can gain additional heroes by curing zombies. The objective of the game for the player is to survive as long as it takes in order to cure a sufficient number of zombies enough to build a community to survive the apocalypse.
+Your journey begins with one hero under your control. By successfully curing zombies, you can recruit additional heroes. Your ultimate objective is to endure long enough to cure a sufficient number of zombies and establish a resilient community capable of surviving the apocalypse.
 
 ## Snippets from the game
 ![Screen Shot 2023-08-27 at 11 54 40 PM](https://github.com/sarahelfeel04/Game-Project-TheLastOfUs/assets/142936159/a761df7f-f45f-4aad-92df-b7cf45b54ecb)
@@ -53,3 +53,4 @@ The game was implemented using Java OOP feautures. For the graphical user interf
 ## Usage information and project grading
 This project was given a grade of A+ for its outstanding graphical user interface. 
 This game was built using JavaFX SDK installed on Eclipse. To be able to play the game and compile the code correctly, JavaSDK IDE has to be installed. For more information, check this [link](https://docs.oracle.com/javafx/2/installation/jfxpub-installation.htm). Enjoy the game!
+
