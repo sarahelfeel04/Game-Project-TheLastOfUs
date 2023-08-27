@@ -49,3 +49,7 @@ The player only wins if he has successfully collected and used all vaccines and 
  
 ## Implementation: 
 The game was implemented using Java OOP feautures. For the graphical user interface part, JavaFX was used to demonstrate the actions happening in the game to the view. 
+
+## Usage information and project grading
+This project was given a grade of A+ for its outstanding graphical user interface. 
+This game was built using JavaFX SDK installed on Eclipse. To be able to play the game and compile the code correctly, JavaSDK IDE has to be installed. For more information, check this [link] (https://docs.oracle.com/javafx/2/installation/jfxpub-installation.htm). Enjoy the game!
