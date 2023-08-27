@@ -1,0 +1,13 @@
+/* button3-style.css */
+
+.button3-style {
+	
+   -fx-min-height: 30px;
+    -fx-background-color: rgb(204, 214, 214);
+    
+    -fx-background-radius: 10;
+    -fx-text-fill: black;
+    
+    -fx-border-radius: 10;
+    
+    }

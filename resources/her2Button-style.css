@@ -1,0 +1,12 @@
+/* her2Button-style.css */
+
+.her2-button-style {
+    -fx-min-height: 30px;
+    -fx-background-color: rgb(170, 79, 41);
+    
+    -fx-background-radius: 10;
+    -fx-text-fill: white;
+    
+    -fx-border-radius: 10;
+    
+}

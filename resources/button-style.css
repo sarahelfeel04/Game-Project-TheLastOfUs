@@ -1,0 +1,8 @@
+.button-style {
+    -fx-min-height: 40px;
+    -fx-background-color: rgb(98, 121, 139);
+    -fx-background-radius: 20;
+    
+    -fx-text-fill: white;
+    
+}

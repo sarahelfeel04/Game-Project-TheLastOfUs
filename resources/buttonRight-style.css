@@ -1,0 +1,6 @@
+.yellow-border-button {
+    -fx-border-color: rgb(255, 255, 0);
+    -fx-border-width: 2px;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+}
