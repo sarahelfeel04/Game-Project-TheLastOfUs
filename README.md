@@ -27,6 +27,8 @@ Whenever a zombie is cured an extra hero will take its place and be available fo
 Collectibles
 Collectibles are scattered objects across the map that can help the player survive and advance in the game. Each collectible is only usable once, and after that is discarded from the hero’s inventory and cannot be reused.
 • Vaccines: Vaccines are an integral and important part of the game. As the player can only win the game once all vaccines have been collected and used. Vaccines are also the only means through which players can cure zombies and recruit new heroes.
+
+
 • Supplies: Supplies are the other type of collectible available in the game. Supplies enable the carrying hero to use their special action.
 
 # Gameplay Flow
