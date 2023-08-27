@@ -52,4 +52,4 @@ The game was implemented using Java OOP feautures. For the graphical user interf
 
 ## Usage information and project grading
 This project was given a grade of A+ for its outstanding graphical user interface. 
-This game was built using JavaFX SDK installed on Eclipse. To be able to play the game and compile the code correctly, JavaSDK IDE has to be installed. For more information, check this [link] (https://docs.oracle.com/javafx/2/installation/jfxpub-installation.htm). Enjoy the game!
+This game was built using JavaFX SDK installed on Eclipse. To be able to play the game and compile the code correctly, JavaSDK IDE has to be installed. For more information, check this [link](https://docs.oracle.com/javafx/2/installation/jfxpub-installation.htm). Enjoy the game!
