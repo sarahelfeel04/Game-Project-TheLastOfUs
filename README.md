@@ -17,7 +17,7 @@ The player starts the game controlling only one hero, but can gain additional he
 
 ## Video of the game in motion
 
-To check how the game is played, check this following link [here]([https://pages.github.com/](https://drive.google.com/file/d/13tecFC7DrL22-nVYQZ35Y4vdS-CqspWC/view?usp=share_link))
+To check how the game is played, check this following link [here](https://drive.google.com/file/d/13tecFC7DrL22-nVYQZ35Y4vdS-CqspWC/view?usp=share_link)
 
 ## Characters
 Characters in the game are split into Heroes or Zombies. Heroes
