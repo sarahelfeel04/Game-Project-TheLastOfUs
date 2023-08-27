@@ -26,10 +26,8 @@ Zombies are the types of characters that threaten the player during the game. Zo
 Whenever a zombie is cured an extra hero will take its place and be available for the player to use in future turns.
 Collectibles
 Collectibles are scattered objects across the map that can help the player survive and advance in the game. Each collectible is only usable once, and after that is discarded from the hero’s inventory and cannot be reused.
-• Vaccines: Vaccines are an integral and important part of the game. As the player can only win the game once all vaccines have been collected and used. Vaccines are also the only means through which players can cure zombies and recruit new heroes.
-
-
-• Supplies: Supplies are the other type of collectible available in the game. Supplies enable the carrying hero to use their special action.
+Vaccines: Vaccines are an integral and important part of the game. As the player can only win the game once all vaccines have been collected and used. Vaccines are also the only means through which players can cure zombies and recruit new heroes.
+Supplies: Supplies are the other type of collectible available in the game. Supplies enable the carrying hero to use their special action.
 
 # Gameplay Flow
 The player starts off in a 15x15 grid map with just one hero and 10 zombies. The player can only see the directly adjacent cells next to their pool of heroes. The player then keeps taking his turn trying to collect vaccines, and cure or kill zombies. The game ends when the player has collected and used all vaccines or when all heroes have been overwhelmed and defeated by the zombies.
