@@ -15,9 +15,9 @@ The player starts the game controlling only one hero, but can gain additional he
 ![Screen Shot 2023-08-27 at 11 55 42 PM](https://github.com/sarahelfeel04/Game-Project-TheLastOfUs/assets/142936159/1106ad15-6666-4d6a-aaca-3c52eca8b4f8)
 ![Screen Shot 2023-08-27 at 11 55 58 PM](https://github.com/sarahelfeel04/Game-Project-TheLastOfUs/assets/142936159/1223d853-dbd8-4fc0-8ca0-c7242cfabf4f)
 
-## Video of the game in motion
+## Video of the game 
 
-To check how the game is played, check this following link [here](https://drive.google.com/file/d/13tecFC7DrL22-nVYQZ35Y4vdS-CqspWC/view?usp=share_link)
+Here's a video of me playing the game, check this following link [here](https://drive.google.com/file/d/13tecFC7DrL22-nVYQZ35Y4vdS-CqspWC/view?usp=share_link)
 
 ## Characters
 Characters in the game are split into Heroes or Zombies. Heroes
