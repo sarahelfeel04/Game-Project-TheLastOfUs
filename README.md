@@ -2,7 +2,8 @@
 The Last Of Us themed Java Game
 
 
-![plot](/Users/sarah-elfeel/Desktop/Screen Shot 2023-05-07 at 1.48.01 PM.png)
+![Uploading Screen Shot 2023-05-07 at 1.48.01 PM.png…]()
+
 
 
 ## Game Description: 
